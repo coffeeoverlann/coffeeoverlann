@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coffeeoverlann
+- 👋 Hi, I’m Branden!
 - 👀 I’m interested in networking, Linux, and automation
 - 🌱 I’m currently learning Python for network scripting and preparing for my CCNA
 - 💞️ I’m looking to collaborate on network automation, infrastructure tools, and monitoring solutions
